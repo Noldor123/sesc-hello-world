@@ -1,4 +1,4 @@
-include "stdio.h"
+#include <stdio.h>
 int main (){
   char str [30];
   if (scanf("%s", str)!=0){
